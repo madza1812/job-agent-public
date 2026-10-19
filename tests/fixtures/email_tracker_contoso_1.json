@@ -1,0 +1,10 @@
+{
+ "_fixture_note": "Synthetic application email modeled on a real ATS email's layout: fictional company and role, no personal details, tracking tokens and application data removed.",
+ "id": "fixture-tracker_contoso_1",
+ "sender": "no-reply@us.greenhouse-mail.io",
+ "sender_name": "",
+ "subject": "Thank you for applying to Contoso",
+ "date": "2026-10-17T14:42:10+00:00",
+ "html": "<p>Test,</p>\r\n\r\n<p>Thanks for applying to Contoso. Your application has been received and we will review it right away.</p>\r\n\r\n<p>If your application seems like a good fit for the position we will contact you soon.</p>\r\n\r\n<p>Regards,<br/>\r\nContoso</p>\r\n\r\n<p>** Please note: Do not reply to this email. This email is sent from an unattended mailbox. Replies will not be read.</p>",
+ "text": "Test,\r\n\r\nThanks for applying to Contoso. Your application has been received and we will review it right away.\r\n\r\nIf your application seems like a good fit for the position we will contact you soon.\r\n\r\nRegards,\r\n\r\nContoso\r\n\r\n** Please note: Do not reply to this email. This email is sent from an unattended mailbox. Replies will not be read."
+}

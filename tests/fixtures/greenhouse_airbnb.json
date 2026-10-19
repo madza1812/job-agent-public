@@ -1,0 +1,433 @@
+{
+  "jobs": [
+    {
+      "absolute_url": "https://careers.airbnb.com/positions/9000001?gh_jid=9000001",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3000001,
+      "location": {
+        "name": "Remote - USA"
+      },
+      "metadata": [
+        {
+          "id": 9245691,
+          "name": "Is this job part of ACC?",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 10216612,
+          "name": "Workplace Type",
+          "value": "Remote",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 9000001,
+      "updated_at": "2026-10-02T17:23:05-04:00",
+      "requisition_id": "ONE",
+      "title": "Data Scientist - Algorithms, Community Support",
+      "company_name": "Airbnb",
+      "first_published": "2026-06-28T13:01:24-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;strong&gt;The Community You Will Join: &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;Airbnb is a mission-driven company dedicated to creating a world where anyone can belong anywhere. Our Community Support (CS) team is at the heart of that mission—delivering seamless, 10-star customer service experiences complemented by world-class, personalized human support that empowers hosts and guests at every step of their journey.&lt;/p&gt;\n&lt;p&gt;As a Data Scientist working on Algorithms in CS, you will have the opportunity to collaborate with a strong team of engineers, product managers, designers and operation agents to enable personalized, fair and exceptional experience for guests &amp;amp; hosts using advanced LLM/ML modeling for Community Support.&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;strong&gt;The Difference You Will Make:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;We&#39;re looking for a talented Data Scientist with LLM/ML expertise to join the Community Support Data Science team. In this role, you&#39;ll partner closely with the tech lead to tackle significant components of high-impact projects with a direct opportunity to shape and influence our AI-powered products, differentiated service experiences, and operational optimization strategies.&lt;/p&gt;\n&lt;p&gt;The ideal candidate combines deep technical fluency in LLM/ML with a bias toward action and impact, comfort with ambiguity, and a passion for building scalable, scientific solutions. You’ll work on high-impact projects like:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Implement advanced techniques to automate the LLM evaluation process with high efficiency and quality.&lt;/li&gt;\n&lt;li&gt;Scale the high-quality synthetic datasets curation across various CS domains for training and evaluating LLM.&lt;/li&gt;\n&lt;li&gt;Build LLM/ML models to understand customer issues based on diverse datasets and identify failure modes and opportunities for improvement.&lt;/li&gt;\n&lt;li&gt;Build personalization models to offer differentiated experiences and maximize business impact.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;strong&gt;A Typical Day:&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Discover Opportunities:&lt;/strong&gt; Identify high-impact business opportunities through data exploration and model prototyping, and translate business problems into scientific formulations.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Uncover Insights:&lt;/strong&gt; Analyze structured and unstructured data to uncover meaningful insights and craft actionable proposals that help shape strategy.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Build and Ship:&lt;/strong&gt; Build and deploy production LLM/ML models that directly contribute to the launch of data-driven products, leveraging AI tools to enhance efficiency and impact.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Collaborate Cross-Functionally: &lt;/strong&gt;Build strong relationships with cross-functional partners across Product, Design, Engineering, Operations, and Analytics to drive collaboration and innovation.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Influence Decisions:&lt;/strong&gt; Communicate learnings to leaders and stakeholders in a clear, compelling manner that drives informed, data-driven decision-making.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Empowerment:&lt;/strong&gt; Think strategically about how to scale and evolve data science capabilities within your domain, contributing to the long-term vision for how science drives platform outcomes.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;strong&gt;Your Expertise:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;2+ years of relevant industry experience (e.g. data/ML scientist, tech lead, junior faculty) and a Master’s degree or PhD in relevant fields.&lt;/li&gt;\n&lt;li&gt;State-of-the-art knowledge of AI/ML models.&lt;/li&gt;\n&lt;li&gt;Strong fluency in Python/R and SQL,&amp;nbsp; observation causal inference skill is a plus.&lt;/li&gt;\n&lt;li&gt;Proven ability to communicate clearly and effectively to audiences of varying technical levels.&lt;/li&gt;\n&lt;li&gt;Ability to translate complex findings and results into compelling narratives that drive impact.&lt;/li&gt;\n&lt;li&gt;Excellent project management, communication, and collaboration skills.&lt;/li&gt;\n&lt;li&gt;A product-oriented mindset, with the ability to apply conceptual and innovative thinking to develop and implement solutions that consider the user experience.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Your Location:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity. &lt;a style=&quot;color: #000000;&quot; href=&quot;https://careers.airbnb.com/&quot;&gt;Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list.&lt;/a&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;strong&gt;Our Commitment To Inclusion &amp;amp; Belonging:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400; font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: &lt;/span&gt;&lt;a style=&quot;color: #000000;&quot; href=&quot;mailto:accommodations@example.com&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;accommodations@example.com&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400; font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Equal Employment Opportunity: &lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Airbnb values diversity &amp;amp; belonging and is proud to be an Equal Employment Opportunity employer. All individuals seeking employment at Airbnb are considered without regard to race, color, religion, national origin, age, gender, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, gender expression, sexual orientation, or any other legally protected characteristic.&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0);&quot;&gt;How We&#39;ll Take Care of You:&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits. &amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$151,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$175,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;Reasonable Accommodations:&lt;/strong&gt; We are committed to providing reasonable accommodations throughout the recruitment process for applicants with disabilities. If you need assistance, or an accommodation, please let your recruiter know once you are contacted about a role.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;A Note on Recruiting Scams:&lt;/strong&gt; Scammers sometimes pose as Airbnb recruiters to get money or personal information from candidates. A few things that will always be true for Airbnb’s hiring process: our open roles are posted on Airbnb’s Career’s Page at careers.airbnb.com, and our recruiters correspond only from @&lt;a href=&quot;http://airbnb.com&quot;&gt;airbnb.com&lt;/a&gt; or @&lt;a href=&quot;http://ext.airbnb.com&quot;&gt;ext.airbnb.com&lt;/a&gt; email addresses. Our recruiters will never ask for your Social Security number, bank account details, passport, or payment app information while you are interviewing.&amp;nbsp; We’ll also never ask you to pay a fee, send money, deposit or cash a check, or purchase work-related equipment (such as a company laptop) during the interview process. We encourage candidates to remain vigilant of these recruiting scams and not share sensitive information if you do not believe an individual is actually affiliated with Airbnb.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+      "departments": [
+        {
+          "id": 85549,
+          "name": "Data Science",
+          "child_ids": [],
+          "parent_id": 60966
+        }
+      ],
+      "offices": [
+        {
+          "id": 63868,
+          "name": "United States",
+          "location": null,
+          "child_ids": [
+            246412,
+            258081,
+            258082,
+            258083,
+            87306,
+            87309,
+            211524,
+            87312,
+            87316,
+            87315,
+            104152,
+            88158,
+            85791,
+            87313,
+            88161,
+            87308,
+            87311,
+            87307,
+            80804,
+            109320,
+            87314,
+            88160,
+            78632,
+            87310,
+            88159,
+            241531,
+            108489,
+            62810,
+            62444,
+            85003,
+            104153,
+            12964,
+            11235,
+            55,
+            4447,
+            5924,
+            1316,
+            162,
+            5925,
+            1086,
+            1355
+          ],
+          "parent_id": 17515
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": null
+    },
+    {
+      "absolute_url": "https://careers.airbnb.com/positions/9000002?gh_jid=9000002",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3000002,
+      "location": {
+        "name": "United States "
+      },
+      "metadata": [
+        {
+          "id": 9245691,
+          "name": "Is this job part of ACC?",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 10216612,
+          "name": "Workplace Type",
+          "value": "Remote",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 9000002,
+      "updated_at": "2026-09-29T20:00:54-04:00",
+      "requisition_id": "ONE",
+      "title": "Associate Principal, Procurement Innovation Supplier Programs",
+      "company_name": "Airbnb",
+      "first_published": "2026-09-24T18:17:39-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;strong&gt;The Community You Will Join:&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;The Procurement team at Airbnb manages the source-to-pay processes including Accounts Payable, Travel and Expense, and the Contingent Workforce program. Procurement Innovation is a pillar within Procurement overseeing procurement tools, processes, reporting, and AI.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;We are a collaborative, forward-thinking team that embraces an AI-first mindset — leveraging technology, automation, and data to simplify processes and unlock new efficiencies. Guided by Airbnb’s mission to create a world where anyone can belong, we focus on delivering value through curiosity, creativity, and integrity.&lt;/li&gt;\n&lt;li&gt;Your role will involve close collaboration with key cross-functional partners, including Finance Technology Group, Procurement Operation, Third-Party Security, and various other business units. Together, we will ensure the efficient management of our programs and create an environment of collaboration, innovation, and inclusivity.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Our focus on robust onboarding, monitoring, and promoting a great supplier experience will be at the forefront of everything you do. Join us and be part of a team that is making a positive impact in the world of procurement.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;strong&gt;The Difference You Will Make:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;In this exciting role, you will have responsibility to manage the supplier onboarding process, including the management of the tools, orchestration, and support the cross-function teams involved in onboarding operations to smoothly onboard third-party suppliers into the Airbnb financial system&lt;/li&gt;\n&lt;li&gt;You will also provide in-depth knowledge and optimization of supplier programs at Airbnb including maintaining effective supplier risk oversight measures, and establishing critical supplier programs in tandem with our Sourcing team.&lt;/li&gt;\n&lt;li&gt;In this role, we will measure your impact by developing process improvement recommendations based on your deep understanding of current procurement practices. You will enhance the supplier experience by executing transformational initiatives, aligning it with stakeholders&#39; business needs while mitigating risk for Airbnb.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;strong&gt;A Typical Day:&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Oversee and maintain supplier onboarding programs, ensuring the process meets the business and commercial needs of the organization.&lt;/li&gt;\n&lt;li&gt;Enrich the supplier experience by executing transformational initiatives that anticipate emerging supplier needs and deliver innovative solutions, aligning with stakeholders&#39; business needs while mitigating risk for Airbnb.&lt;/li&gt;\n&lt;li&gt;Monitor supplier compliance to document operational health and improvements; communicate progress, barriers, risks, and benefits to appropriate business and management levels.&lt;/li&gt;\n&lt;li&gt;Collaborate with various teams to understand the requirements of the supplier risk management program and identify opportunities for system and operational enhancements.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Manage project execution and tool implementation, providing detailed subject matter advice in the development of deliverables.&lt;/li&gt;\n&lt;li&gt;Provide expertise in the areas of source-to-pay, supplier risk management, regulatory assessment, procurement technology, and overall procurement transformation functions.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;strong&gt;Your Expertise:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Degree or advanced degree in business, finance, supply chain or related fields.&lt;/li&gt;\n&lt;li&gt;8+ years of experience managing procurement programs and/or leading preferred supplier programs&lt;/li&gt;\n&lt;li&gt;Experience managing supplier onboarding and risk management tools and processes, with expertise in implementing enterprise-wide systems.&lt;/li&gt;\n&lt;li&gt;Experience using data, automation, or AI tools to support decision-making.&lt;/li&gt;\n&lt;li&gt;Skilled in building relationships in a cross-functional environment and proven success in influencing stakeholders at all levels.&lt;/li&gt;\n&lt;li&gt;Highly analytical, with strong problem-solving skills and a data-driven approach to decision-making.&lt;/li&gt;\n&lt;li&gt;Excellent communication and interpersonal skills, both written and oral, with the ability to influence up, down, and across the organization.&lt;/li&gt;\n&lt;li&gt;Self-motivated, reliable, and detail-oriented, capable of managing multiple tasks efficiently with minimal supervision.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Your Location:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity. &lt;a style=&quot;color: #000000;&quot; href=&quot;https://careers.airbnb.com/&quot;&gt;Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list&lt;/a&gt; &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: #000000; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;strong&gt;Our Commitment To Inclusion &amp;amp; Belonging:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400; font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: &lt;/span&gt;&lt;a style=&quot;color: #000000;&quot; href=&quot;mailto:accommodations@example.com&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;accommodations@example.com&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400; font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400; font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;strong&gt;Equal Employment Opportunity&lt;/strong&gt;:&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400; font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;Airbnb values diversity &amp;amp; belonging and is proud to be an Equal Employment Opportunity employer. All individuals seeking employment at Airbnb are considered without regard to race, color, religion, national origin, age, gender, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, gender expression, sexual orientation, or any other legally protected characteristic.&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0);&quot;&gt;How We&#39;ll Take Care of You:&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits. &amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$102,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$120,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;Reasonable Accommodations:&lt;/strong&gt; We are committed to providing reasonable accommodations throughout the recruitment process for applicants with disabilities. If you need assistance, or an accommodation, please let your recruiter know once you are contacted about a role.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;A Note on Recruiting Scams:&lt;/strong&gt; Scammers sometimes pose as Airbnb recruiters to get money or personal information from candidates. A few things that will always be true for Airbnb’s hiring process: our open roles are posted on Airbnb’s Career’s Page at careers.airbnb.com, and our recruiters correspond only from @&lt;a href=&quot;http://airbnb.com&quot;&gt;airbnb.com&lt;/a&gt; or @&lt;a href=&quot;http://ext.airbnb.com&quot;&gt;ext.airbnb.com&lt;/a&gt; email addresses. Our recruiters will never ask for your Social Security number, bank account details, passport, or payment app information while you are interviewing.&amp;nbsp; We’ll also never ask you to pay a fee, send money, deposit or cash a check, or purchase work-related equipment (such as a company laptop) during the interview process. We encourage candidates to remain vigilant of these recruiting scams and not share sensitive information if you do not believe an individual is actually affiliated with Airbnb.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+      "departments": [
+        {
+          "id": 76,
+          "name": "Financial Planning and Analysis",
+          "child_ids": [],
+          "parent_id": 73694
+        }
+      ],
+      "offices": [
+        {
+          "id": 63868,
+          "name": "United States",
+          "location": null,
+          "child_ids": [
+            246412,
+            258081,
+            258082,
+            258083,
+            87306,
+            87309,
+            211524,
+            87312,
+            87316,
+            87315,
+            104152,
+            88158,
+            85791,
+            87313,
+            88161,
+            87308,
+            87311,
+            87307,
+            80804,
+            109320,
+            87314,
+            88160,
+            78632,
+            87310,
+            88159,
+            241531,
+            108489,
+            62810,
+            62444,
+            85003,
+            104153,
+            12964,
+            11235,
+            55,
+            4447,
+            5924,
+            1316,
+            162,
+            5925,
+            1086,
+            1355
+          ],
+          "parent_id": 17515
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": null
+    },
+    {
+      "absolute_url": "https://careers.airbnb.com/positions/9000003?gh_jid=9000003",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3000003,
+      "location": {
+        "name": "London, United Kingdom"
+      },
+      "metadata": [
+        {
+          "id": 9245691,
+          "name": "Is this job part of ACC?",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 10216612,
+          "name": "Workplace Type",
+          "value": "Hybrid",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 9000003,
+      "updated_at": "2026-09-29T20:00:54-04:00",
+      "requisition_id": "MULTI",
+      "title": "Account Manager ",
+      "company_name": "Airbnb",
+      "first_published": "2026-09-09T04:35:19-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Community you will join:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Our Supply Team is growing, and we want you to be part of it! As a &lt;strong&gt;Market Associate / Account Manager,&lt;/strong&gt; you will play a crucial role in the retention, growth, and optimisation of host entrepreneurs and rising hosts in your assigned territory. These hosts are individuals who manage their own property or support owners by hosting on their behalf. You will focus on building strong relationships with these hosts, helping them optimise their listings, improve pricing strategies, and enhance their overall success on Airbnb.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The difference you will make:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Market Associate, you will be responsible for the retention and growth of long-tail Hosts in an assigned territory. You will establish and nurture business relationships with emerging professional host accounts by suggesting and supporting strategic initiatives that drive their success on Airbnb. These initiatives will include supply optimisation, pricing optimisation, host recruitment, and platform education. In addition, as these Hosts successfully grow on the platform, it will be imperative that you help them maintain best-in-class hospitality standards for an excellent guest experience. Beyond one-to-one account management responsibilities, you’ll also support Market Managers on your team to deliver one-to-many education programs, such as webinars and scaled e-mail communication. Ultimately, this team will be responsible for helping long-tail Hosts thrive on Airbnb.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;A typical day:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Manage a book of business consisting of host entrepreneurs and rising hosts, ensuring their retention, growth, and optimisation on Airbnb.&lt;/li&gt;\n&lt;li&gt;Conduct one-on-one optimisation and onboarding conversations, providing strategic recommendations on pricing, availability, and listing quality.&lt;/li&gt;\n&lt;li&gt;Secure availability over high compression dates, ensuring hosts maximise their revenue potential.&lt;/li&gt;\n&lt;li&gt;Educate hosts on product updates and policy changes, while channeling their feedback to internal teams.&lt;/li&gt;\n&lt;li&gt;Respond to host inquiries and provide timely, high-quality support to improve their experience on the platform.&lt;/li&gt;\n&lt;li&gt;Analyse performance data to identify trends and take action on opportunities that drive increased bookings and host success.&lt;/li&gt;\n&lt;li&gt;Develop long-lasting relationships with hosts, ensuring they receive ongoing support tailored to their needs.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Your expertise:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;3+ years of experience in new sales, account management, or partner support.&lt;/li&gt;\n&lt;li&gt;2+ years of hospitality/travel industry experience (nice to have).&lt;/li&gt;\n&lt;li&gt;Strong time management and prioritisation skills, with the ability to manage multiple accounts effectively.&lt;/li&gt;\n&lt;li&gt;Proven experience working a book of business, driving engagement and growth through proactive account management.&lt;/li&gt;\n&lt;li&gt;Highly goal-driven, with a strong bias for action and persistence in the face of challenges.&lt;/li&gt;\n&lt;li&gt;Excellent communication and presentation skills, with the ability to engage effectively via phone, email, and in-person.&lt;/li&gt;\n&lt;li&gt;Proficiency in CRM tools, particularly working with leads and opportunities (Salesforce experience is a plus).&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;strong&gt;Our Commitment To Inclusion &amp;amp; Belonging:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0);&quot;&gt;How We&#39;ll Take Care of You:&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range shown below is annualized, is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;United Kingdom Annual Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;£46,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;£54,000 GBP&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;Reasonable Accommodations:&lt;/strong&gt; We are committed to providing reasonable accommodations throughout the recruitment process for applicants with disabilities. If you need assistance, or an accommodation, please let your recruiter know once you are contacted about a role.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;A Note on Recruiting Scams:&lt;/strong&gt; Scammers sometimes pose as Airbnb recruiters to get money or personal information from candidates. A few things that will always be true for Airbnb’s hiring process: our open roles are posted on Airbnb’s Career’s Page at careers.airbnb.com, and our recruiters correspond only from @&lt;a href=&quot;http://airbnb.com&quot;&gt;airbnb.com&lt;/a&gt; or @&lt;a href=&quot;http://ext.airbnb.com&quot;&gt;ext.airbnb.com&lt;/a&gt; email addresses. Our recruiters will never ask for your Social Security number, bank account details, passport, or payment app information while you are interviewing.&amp;nbsp; We’ll also never ask you to pay a fee, send money, deposit or cash a check, or purchase work-related equipment (such as a company laptop) during the interview process. We encourage candidates to remain vigilant of these recruiting scams and not share sensitive information if you do not believe an individual is actually affiliated with Airbnb.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+      "departments": [
+        {
+          "id": 247,
+          "name": "Business Development",
+          "child_ids": [],
+          "parent_id": 73691
+        }
+      ],
+      "offices": [
+        {
+          "id": 151,
+          "name": "London, United Kingdom",
+          "location": "London, United Kingdom",
+          "child_ids": [],
+          "parent_id": 64290
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": null
+    },
+    {
+      "absolute_url": "https://careers.airbnb.com/positions/9000004?gh_jid=9000004",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3000004,
+      "location": {
+        "name": "San Francisco, CA"
+      },
+      "metadata": [
+        {
+          "id": 9245691,
+          "name": "Is this job part of ACC?",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 10216612,
+          "name": "Workplace Type",
+          "value": "Onsite",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 9000004,
+      "updated_at": "2026-09-29T20:00:54-04:00",
+      "requisition_id": "ONE",
+      "title": "Senior Executive IT Support Engineer, Tech Foundations",
+      "company_name": "Airbnb",
+      "first_published": "2026-09-18T15:37:40-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;The Community You Will Join&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;AirSupport helps Airbnb employees stay productive wherever and however they work. Within AirSupport, Executive Support provides a dedicated, high-touch technology experience for Airbnb’s senior leaders and their Executive Business Partners.&lt;/p&gt;\n&lt;p&gt;The team combines deep technical expertise, proactive support, and strong cross-functional partnership across office, remote, travel, event, and other approved environments. Executive Support owns the executive technology experience, working closely with engineering, security, infrastructure, AV, workplace, and other technology partners who own the underlying technologies.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;The Difference You Will Make&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As a Senior Executive IT Support Engineer, you will be one of the most senior technical individual contributors within AirSupport and a trusted technology partner to Airbnb’s executive population.&lt;/p&gt;\n&lt;p&gt;You will combine hands-on technical expertise with strong judgment, proactive planning, and cross-functional leadership. You will own complex and sensitive executive technology issues through resolution, anticipate risks before they become disruptions, and lead improvements that make the executive experience more reliable and supportable.&lt;/p&gt;\n&lt;p&gt;Your impact will extend beyond the issues you personally resolve. You will identify patterns in what Executive Support is seeing, connect them to broader employee technology priorities, develop recommendations, and influence the teams responsible for the underlying technology. You will help shape Executive Support technical direction, represent the support perspective in major technology decisions, and identify opportunities where solutions can benefit the broader employee population.&lt;/p&gt;\n&lt;p&gt;You will also help raise IT Support Engineering craft through technical leadership, mentoring, standards, knowledge sharing, and reusable practices.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;A Typical Day&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;Provide direct, high-touch technology support for Airbnb executives and Executive Business Partners, taking end-to-end ownership of complex, sensitive, or time-critical issues.&lt;/li&gt;\n&lt;li&gt;Troubleshoot across endpoints and mobile devices, identity and access, connectivity, collaboration tools, AV and conferencing, workplace technology, and other systems that affect the executive experience.&lt;/li&gt;\n&lt;li&gt;Maintain ownership of the executive experience when an issue spans multiple technologies or teams, engaging the appropriate technical owners and driving the issue through resolution.&lt;/li&gt;\n&lt;li&gt;Build trusted relationships with executives and Executive Business Partners by understanding their workflows, technology environments, and upcoming priorities while exercising excellent discretion and judgment.&lt;/li&gt;\n&lt;li&gt;Own or coordinate executive technology lifecycle needs, including onboarding, offboarding, device transitions, and other changes that require continuity and careful planning.&lt;/li&gt;\n&lt;li&gt;Proactively prepare for board and leadership meetings, travel, launches, demonstrations, special events, and other high-visibility moments by identifying dependencies and addressing technology risks before they create disruption.&lt;/li&gt;\n&lt;li&gt;Identify recurring issues and broader patterns, develop recommendations for what should change, and lead cross-functional improvements that drive more scalable solutions.&lt;/li&gt;\n&lt;li&gt;Help shape Executive Support technical direction and improvement priorities based on executive needs, support signals, technology risk, and broader employee technology strategy.&lt;/li&gt;\n&lt;li&gt;Represent Executive Support in major technology initiatives, influencing design, readiness, rollout, and supportability for executive workflows and the broader employee experience.&lt;/li&gt;\n&lt;li&gt;Communicate complex issues, impact, risks, tradeoffs, and recommendations clearly to executives and senior technical and business leaders.&lt;/li&gt;\n&lt;li&gt;Develop technical standards, troubleshooting approaches, readiness practices, runbooks, and knowledge; mentor other engineers; and help raise IT Support Engineering craft across the team.&lt;/li&gt;\n&lt;li&gt;Contribute to broader AirSupport priorities when Executive Support coverage and readiness allow, applying technical leadership and insights from the executive environment to work that improves the overall employee technology experience.&lt;/li&gt;\n&lt;li&gt;Participate in shared after-hours coverage and provide onsite, travel, event, or approved executive residential support when required.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Your Expertise&lt;/strong&gt;&lt;/h2&gt;\n&lt;ul&gt;\n&lt;li&gt;8+ years of experience in enterprise IT support, workplace technology, systems support, or a related technical field, including meaningful experience supporting executives, senior leaders, or other high-touch and business-critical environments.&lt;/li&gt;\n&lt;li&gt;Strong hands-on technical capability across multiple technology domains, with deep expertise in one or more areas relevant to Executive Support.&lt;/li&gt;\n&lt;li&gt;Strong knowledge of enterprise endpoints and mobile devices, endpoint management, identity and access, collaboration platforms, networking fundamentals, and video conferencing or workplace AV.&lt;/li&gt;\n&lt;li&gt;Experience taking ambiguous technical or operational problems, defining an approach, and driving work through implementation with limited direction.&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to identify patterns across support issues and translate them into broader technical, operational, or service improvements.&lt;/li&gt;\n&lt;li&gt;Experience leading cross-functional work and influencing decisions across teams you do not directly manage.&lt;/li&gt;\n&lt;li&gt;Ability to develop a clear technical point of view, evaluate tradeoffs, and make recommendations that connect immediate support needs to broader technology and organizational priorities.&lt;/li&gt;\n&lt;li&gt;Ability to build trusted relationships and communicate complex technical issues clearly and credibly with executives and senior technical and business leaders.&lt;/li&gt;\n&lt;li&gt;Excellent judgment, discretion, and composure in confidential, high-pressure, or high-visibility situations.&lt;/li&gt;\n&lt;li&gt;Demonstrated experience improving the capability of other engineers through mentoring, technical standards, documentation, cross-training, or other reusable practices.&lt;/li&gt;\n&lt;li&gt;A proactive approach to support: you look for recurring friction and emerging risks and work to prevent the next issue rather than only resolving the current one.&lt;/li&gt;\n&lt;li&gt;Ability to participate in an after-hours support rotation and provide occasional onsite, travel, event, or residential support based on business need.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Additional experience that may be helpful&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Deep expertise in enterprise AV, video conferencing, live-event technology, or executive meeting environments.&lt;/li&gt;\n&lt;li&gt;Experience supporting executive travel, board meetings, major company events, or other high-stakes technology needs.&lt;/li&gt;\n&lt;li&gt;Experience with automation, scripting, AI-enabled support, or other tools that improve support quality and reduce repetitive work.&lt;/li&gt;\n&lt;li&gt;Experience supporting residential or other non-traditional technology environments within an enterprise security and support model.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p class=&quot;p1&quot;&gt;&lt;strong&gt;Your Location:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: arial, helvetica, sans-serif;&quot;&gt;This position needs to be based in the San Francisco office 40 hours a week, or as required by the business needs for the role.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;strong&gt;Our Commitment To Inclusion &amp;amp; Belonging:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400; font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: &lt;/span&gt;&lt;a style=&quot;color: #000000;&quot; href=&quot;mailto:accommodations@example.com&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;accommodations@example.com&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400; font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0);&quot;&gt;How We&#39;ll Take Care of You:&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits. &amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$132,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$155,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;Reasonable Accommodations:&lt;/strong&gt; We are committed to providing reasonable accommodations throughout the recruitment process for applicants with disabilities. If you need assistance, or an accommodation, please let your recruiter know once you are contacted about a role.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;A Note on Recruiting Scams:&lt;/strong&gt; Scammers sometimes pose as Airbnb recruiters to get money or personal information from candidates. A few things that will always be true for Airbnb’s hiring process: our open roles are posted on Airbnb’s Career’s Page at careers.airbnb.com, and our recruiters correspond only from @&lt;a href=&quot;http://airbnb.com&quot;&gt;airbnb.com&lt;/a&gt; or @&lt;a href=&quot;http://ext.airbnb.com&quot;&gt;ext.airbnb.com&lt;/a&gt; email addresses. Our recruiters will never ask for your Social Security number, bank account details, passport, or payment app information while you are interviewing.&amp;nbsp; We’ll also never ask you to pay a fee, send money, deposit or cash a check, or purchase work-related equipment (such as a company laptop) during the interview process. We encourage candidates to remain vigilant of these recruiting scams and not share sensitive information if you do not believe an individual is actually affiliated with Airbnb.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+      "departments": [
+        {
+          "id": 73674,
+          "name": "Non-Software Engineering",
+          "child_ids": [],
+          "parent_id": 73703
+        }
+      ],
+      "offices": [
+        {
+          "id": 55,
+          "name": "San Francisco, United States",
+          "location": "San Francisco, CA",
+          "child_ids": [],
+          "parent_id": 63868
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": null
+    },
+    {
+      "absolute_url": "https://careers.airbnb.com/positions/9000005?gh_jid=9000005",
+      "data_compliance": [
+        {
+          "type": "gdpr",
+          "requires_consent": false,
+          "requires_processing_consent": false,
+          "requires_retention_consent": false,
+          "retention_period": null,
+          "demographic_data_consent_applies": false
+        }
+      ],
+      "internal_job_id": 3000005,
+      "location": {
+        "name": "United States "
+      },
+      "metadata": [
+        {
+          "id": 9245691,
+          "name": "Is this job part of ACC?",
+          "value": false,
+          "value_type": "yes_no"
+        },
+        {
+          "id": 10216612,
+          "name": "Workplace Type",
+          "value": "Remote",
+          "value_type": "single_select"
+        }
+      ],
+      "id": 9000005,
+      "updated_at": "2026-10-09T13:54:02-04:00",
+      "requisition_id": "MULTI",
+      "title": "Business Operations and Growth Lead",
+      "company_name": "Airbnb",
+      "first_published": "2026-04-21T19:15:15-04:00",
+      "language": "en",
+      "application_deadline": null,
+      "content": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Community You Will Join:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Chief Business Officer organization plays a pivotal role in driving the company’s growth and expansion efforts worldwide. Our teammates work on commercializing Airbnb’s new and existing businesses, helping Airbnb expand beyond its core offering as a place to stay. This includes recruiting and developing Airbnb’s global supply of high-quality stays, Experiences, and Services, and executing Airbnb’s global strategy in the market. With a focus on business strategy, quality supply and international expansion, the team is leading the way for Airbnb’s continued growth and success in its next chapter.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The Global Markets Team, which sits within CBO, ensures that Airbnb is locally relevant and serves the needs of our global hosts and guests, helping regions more efficiently plan and execute growth strategies across supply, demand, and other surfaces in a way that will resonate with our communities.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The Difference You Will Make&lt;/strong&gt;:&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;You will work closely with the cross-functional leaders and teams, and play a key role in scaling our community growth and optimization-focused programs. The successful candidate will report to the Director, Programs and Business Operations.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;A Typical Day:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Align all functions&amp;nbsp; to achieve Americas’s regional business objectives in partnership with the Director, Regional Business Operations and Growth.&lt;/li&gt;\n&lt;li&gt;Own the conception, execution, and measurement of cross-functional initiatives end-to-end. Concretely, this means defining a crisp problem statement, articulating the ideal solution to that problem, identifying key dependencies blocking that solution, and then working with cross-functional stakeholders to achieve the solution. These initiatives will span across the demand, supply, and regulatory surfaces of the business.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Drive regular business operation meetings and initiate meaningful conversations - leading weekly meetings with cross-functional project teams (field &amp;amp; online operations, marketing, product, legal) to ensure key initiatives are on track.&lt;/li&gt;\n&lt;li&gt;Use all available data sources and tools, internal and external, to analyze macro and micro trends, and present analysis, insights, and actionable plans to Airbnb country and regional leadership team to drive key business decisions.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Assist the Regional Director and Regional BizOps Director in owning the performance narrative for key metrics and deliver the story to senior leaders in a concise and clear manner in weekly, monthly, and quarterly business reviews&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Your Expertise:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Qualified candidates will ideally have a minimum of 10+ years of work experience, preferably with combined exposure to data-modeling, business analytics, and project management in a dynamic entrepreneurial environment.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;A proven bias to action and ability to own a project from conception through to post-mortem.&lt;/li&gt;\n&lt;li&gt;Ability to work in a world of uncertainty and ambiguity - to create clarity from chaos.&lt;/li&gt;\n&lt;li&gt;A familiarity with AI, AI data analysis and AI tools would be considered an asset.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;A world class written and verbal communicator with the ability to present at all levels of an organization in a succinct, clear and eloquent manner.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;A proven track record of being able to storytell, influence and rally diverse cross-functional stakeholders against a common mission or goal using both qualitative and quantitative insights.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Ability to not only dive into details to drive execution but also zoom out to contextualize specific recommendations/initiatives within the broader company strategy.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Ability to multi-task by prioritizing work and coordinating required support across various functions to achieve project goals and objectives.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Impeccable organizational skills, attention to detail and ability to document processes &amp;amp; decisions made.&lt;/li&gt;\n&lt;li&gt;Experience implementing and scaling initiatives across globally dispersed teams.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Experience working cross-functionally with multiple departments.&lt;/li&gt;\n&lt;li&gt;Hands-on approach, getting things done fast.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Comfort with manipulating large datasets in excel is a must. SQL proficiency strongly preferred.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Your Location:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity. &lt;a style=&quot;color: #000000;&quot; href=&quot;https://careers.airbnb.com/&quot;&gt;Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list&lt;/a&gt; &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;strong&gt;Our Commitment To Inclusion &amp;amp; Belonging:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400; font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: &lt;/span&gt;&lt;a style=&quot;color: #000000;&quot; href=&quot;mailto:accommodations@example.com&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;accommodations@example.com&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;. Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400; font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application.&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0);&quot;&gt;How We&#39;ll Take Care of You:&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;p1&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits. &amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Pay Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$168,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$203,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;Reasonable Accommodations:&lt;/strong&gt; We are committed to providing reasonable accommodations throughout the recruitment process for applicants with disabilities. If you need assistance, or an accommodation, please let your recruiter know once you are contacted about a role.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;A Note on Recruiting Scams:&lt;/strong&gt; Scammers sometimes pose as Airbnb recruiters to get money or personal information from candidates. A few things that will always be true for Airbnb’s hiring process: our open roles are posted on Airbnb’s Career’s Page at careers.airbnb.com, and our recruiters correspond only from @&lt;a href=&quot;http://airbnb.com&quot;&gt;airbnb.com&lt;/a&gt; or @&lt;a href=&quot;http://ext.airbnb.com&quot;&gt;ext.airbnb.com&lt;/a&gt; email addresses. Our recruiters will never ask for your Social Security number, bank account details, passport, or payment app information while you are interviewing.&amp;nbsp; We’ll also never ask you to pay a fee, send money, deposit or cash a check, or purchase work-related equipment (such as a company laptop) during the interview process. We encourage candidates to remain vigilant of these recruiting scams and not share sensitive information if you do not believe an individual is actually affiliated with Airbnb.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+      "departments": [
+        {
+          "id": 73685,
+          "name": "Business Operations/Analysis",
+          "child_ids": [],
+          "parent_id": 73697
+        }
+      ],
+      "offices": [
+        {
+          "id": 63868,
+          "name": "United States",
+          "location": null,
+          "child_ids": [
+            246412,
+            258081,
+            258082,
+            258083,
+            87306,
+            87309,
+            211524,
+            87312,
+            87316,
+            87315,
+            104152,
+            88158,
+            85791,
+            87313,
+            88161,
+            87308,
+            87311,
+            87307,
+            80804,
+            109320,
+            87314,
+            88160,
+            78632,
+            87310,
+            88159,
+            241531,
+            108489,
+            62810,
+            62444,
+            85003,
+            104153,
+            12964,
+            11235,
+            55,
+            4447,
+            5924,
+            1316,
+            162,
+            5925,
+            1086,
+            1355
+          ],
+          "parent_id": 17515
+        }
+      ],
+      "ai_disclaimer": null,
+      "include_ai_disclaimer": null,
+      "ai_opt_out_request_url": null
+    }
+  ],
+  "meta": {
+    "total": 5
+  }
+}

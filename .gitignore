@@ -1,0 +1,50 @@
+# Virtual environment
+.venv/
+
+# Database
+data/*.db
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm
+data/*.lock
+data/backups/
+
+# Logs
+logs/
+
+# Credentials and secrets
+.env
+.env.*
+credentials*.json
+client_secret*.json
+token*.json
+*.pem
+*.key
+secrets/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Personal profile (contains PII)
+profile/resume.pdf
+profile/resume.md
+profile/profile.yaml
+profile/preferred_companies.yaml
+secrets/
+
+# Generated from the database (personal)
+review/
+briefs/
+digest/
+
+# Publisher: post ideas, drafts and the monthly ledger; your own post notes
+drafts/
+profile/post_notes.md
+
+# Machine-specific (scripts/setup.ps1 writes it)
+config/local.yaml
+
+# Old data you keep around (personal)
+archive/

@@ -1,0 +1,56 @@
+{
+ "_fixture_note": "Public posting API response saved 2026-10-17 from https://beam.breezy.hr/json?verbose=true; trimmed to what the tests use; IDs replaced with fake ones.",
+ "items": [
+  {
+   "id": "00000000b001",
+   "friendly_id": "00000000b001-general-considerations-future-opportunities",
+   "name": "General Considerations / Future Opportunities",
+   "url": "https://beam.breezy.hr/p/00000000b001-general-considerations-future-opportunities",
+   "published_date": "2024-09-24T17:37:59.308Z",
+   "type": {
+    "id": "other",
+    "name": "Other"
+   },
+   "location": {
+    "country": {
+     "name": "United States",
+     "id": "US"
+    },
+    "is_remote": true,
+    "name": "United States",
+    "city": "",
+    "primary": true,
+    "remote_details": {
+     "value": "remote",
+     "label": "Fully remote, no location restrictions"
+    }
+   },
+   "department": null,
+   "salary": "",
+   "company": {
+    "name": "Beam",
+    "logo_url": "https://gallery-cdn.breezy.hr/665a27e0-4299-4b93-97e5-56fea7acf46b/beam_FormerlyEdquity_logo_BlkBlk.jpg",
+    "friendly_id": "beam",
+    "isMultipleLocationsEnabled": false
+   },
+   "locations": [
+    {
+     "country": {
+      "name": "United States",
+      "id": "US"
+     },
+     "is_remote": true,
+     "name": "United States",
+     "city": "",
+     "primary": true,
+     "remote_details": {
+      "value": "remote",
+      "label": "Fully remote, no location restrictions"
+     },
+     "id": "00000000b002"
+    }
+   ],
+   "description": "<p>Don't see a job that perfectly matches your experience or professional goals? We would still love to hear from you! Beam is growing, so feel free to submit your resume and tell us a little about yourself. We will keep your application on file and will be in touch if a suitable role opens up.</p>\n<p><strong><br></strong></p>\n<p><strong>Why Beam?</strong></p>\n<p>We love our staff—and to show our deep appreciation, we offer competitive salaries, amazing benefits and more. We know that having a positive team culture is essential to achieving our goals, so we put time and effort into making Beam an encouraging, energizing, and exciting place to work.</p>\n<p></p>\n<p><em>Benefits for full-time employees include:</em></p>\n<ul><li>Fully paid health insurance (Medical/Vision/Dental)</li><li>Unlimited PTO, Sick and Mental Health Benefits&nbsp;</li><li>11 paid company holidays</li><li>401k with a 4%&nbsp;match</li><li>Generous parental leave</li><li>Annual Professional Development Stipend</li><li>One time&nbsp;Home Office Setup Stipend</li><li>Equity in Beam</li><li>Many&nbsp;more!&nbsp;</li></ul>\n<p></p>\n<ul></ul>\n<ul></ul>\n<p><em>Beam is committed to creating a diverse, equitable, and inclusive environment, and we are proud to be an equal opportunity employer -&nbsp;providing<em>&nbsp;equal employment opportunities to all employees and applicants and prohibiting discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.</em>&nbsp;We are dedicated to building a workforce that celebrates diversity and equity and believe that inclusivity and anti-racist values&nbsp;plays an important role in our decision making process, both in staffing and in work product.&nbsp;</em></p>\n<p></p>\n<p></p>"
+  }
+ ]
+}

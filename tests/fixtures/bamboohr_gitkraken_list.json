@@ -1,0 +1,68 @@
+{
+ "_fixture_note": "Public posting API response saved 2026-10-17 from https://gitkraken.bamboohr.com/careers/list; trimmed to what the tests use; IDs replaced with fake ones.",
+ "meta": {
+  "totalCount": 3
+ },
+ "result": [
+  {
+   "id": "9001",
+   "jobOpeningName": "Applied Data Scientist",
+   "departmentId": "1000",
+   "departmentLabel": "DEV001 - Development",
+   "employmentStatusLabel": "Full-Time",
+   "employmentType": null,
+   "location": {
+    "city": null,
+    "state": null
+   },
+   "atsLocation": {
+    "country": "United States",
+    "state": "Arizona",
+    "province": null,
+    "city": "Scottsdale"
+   },
+   "isRemote": null,
+   "locationType": "1"
+  },
+  {
+   "id": "9002",
+   "jobOpeningName": "Software Engineer",
+   "departmentId": "1000",
+   "departmentLabel": "DEV001 - Development",
+   "employmentStatusLabel": "Full-Time",
+   "employmentType": null,
+   "location": {
+    "city": null,
+    "state": null
+   },
+   "atsLocation": {
+    "country": "United States",
+    "state": "Arizona",
+    "province": null,
+    "city": "Scottsdale"
+   },
+   "isRemote": null,
+   "locationType": "1"
+  },
+  {
+   "id": "9003",
+   "jobOpeningName": "Software Engineer",
+   "departmentId": "1000",
+   "departmentLabel": "DEV001 - Development",
+   "employmentStatusLabel": "Full-Time",
+   "employmentType": null,
+   "location": {
+    "city": "Alicante",
+    "state": "Spain"
+   },
+   "atsLocation": {
+    "country": null,
+    "state": null,
+    "province": null,
+    "city": null
+   },
+   "isRemote": null,
+   "locationType": "0"
+  }
+ ]
+}

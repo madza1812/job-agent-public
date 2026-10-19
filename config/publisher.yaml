@@ -1,0 +1,77 @@
+# Publisher guard lists (agents/publisher/guard.py). Every LinkedIn draft is checked
+# against these in code before it's saved to Typefully; a draft that fails is retried
+# once with the problems listed, then kept local only.
+#
+# Personal terms (supplier or customer names, internal hostnames, ...) go in
+# profile/profile.yaml under publisher.blocked_terms (gitignored), never here.
+
+# Hype words: the style is plain and direct. Whole words/phrases, case-insensitive.
+hype_words:
+  - game-changer
+  - game changer
+  - game-changing
+  - revolutionary
+  - revolutionize
+  - revolutionized
+  - groundbreaking
+  - cutting-edge
+  - disruptive
+  - unleash
+  - supercharge
+  - supercharged
+  - next-level
+  - mind-blowing
+  - paradigm shift
+  - thrilled to announce
+  - excited to announce
+  - rockstar
+  - ninja
+  - 10x engineer
+
+# Company names that are also common words: matched only as written (case-sensitive),
+# so "a beacon for the team" passes while "Beacon" doesn't. Every other company name is
+# matched ignoring case.
+# Set per user: list the preferred or applied-to companies whose names are ordinary words.
+# These are fictional examples.
+common_word_companies:
+  - Beacon
+  - Summit
+  - Harbor
+  - Anchor
+
+# Phrases exempt from the company and security_terms checks: public facts from the
+# resume, such as a former employer or a product you used. IP addresses, ports,
+# hostnames and tunnel IDs are still refused around them.
+# Set per user from your own resume. These are fictional examples.
+allowlist:
+  - Northwind
+  - Acme Tunnel
+
+# Security setup at work stays out of posts. Whole words/phrases, case-insensitive.
+# Always caught by pattern too: IP addresses, "port <n>", internal hostnames (.local,
+# .lan, .internal, ...), Cloudflare tunnel hostnames (cfargotunnel.com) and IDs (UUIDs).
+security_terms:
+  - tunnel ID
+  - tunnel token
+  - firewall
+  - VPN
+  - SSH
+  - password
+  - passwords
+  - credentials
+  - API key
+  - API keys
+  - IP address
+  - IP addresses
+  - access rules
+  - zero trust
+  - open ports
+
+# Phrases about specific applications or recruiters. Regexes, case-insensitive.
+application_patterns:
+  - '\bI (?:just )?applied (?:to|at|for)\b'
+  - '\bmy application (?:to|at|for|with)\b'
+  - '\binterview(?:ed|ing)? (?:with|at)\b'
+  - '\boffer from\b'
+  - '\b(?:a|the|one) recruiter (?:from|at)\b'
+  - '\brecruiter named\b'

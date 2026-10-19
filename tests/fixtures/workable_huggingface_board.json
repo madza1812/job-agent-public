@@ -1,0 +1,60 @@
+{
+ "_fixture_note": "Public posting API response saved 2026-10-17 from https://apply.workable.com/api/v1/widget/accounts/huggingface; trimmed to what the tests use; IDs replaced with fake ones.",
+ "name": "Hugging Face",
+ "jobs": [
+  {
+   "title": "Open-Source Machine Learning Engineer - EMEA Remote",
+   "shortcode": "F000000001",
+   "telecommuting": true,
+   "url": "https://apply.workable.com/j/F000000001",
+   "country": "France",
+   "city": "Paris",
+   "state": "Île-de-France"
+  },
+  {
+   "title": "Open-Source Machine Learning Engineer - US Remote",
+   "shortcode": "F000000002",
+   "telecommuting": true,
+   "url": "https://apply.workable.com/j/F000000002",
+   "country": "United States",
+   "city": "New York",
+   "state": "New York"
+  },
+  {
+   "title": "Senior Machine Learning Engineer, Voice Agents - EMEA Remote",
+   "shortcode": "F000000003",
+   "telecommuting": true,
+   "url": "https://apply.workable.com/j/F000000003",
+   "country": "France",
+   "city": "Paris",
+   "state": "Île-de-France"
+  },
+  {
+   "title": "Senior Open-Source Python Engineer, ML Developer Tools - EMEA Remote",
+   "shortcode": "F000000004",
+   "telecommuting": true,
+   "url": "https://apply.workable.com/j/F000000004",
+   "country": "France",
+   "city": "",
+   "state": ""
+  },
+  {
+   "title": "Senior Open-Source Python Engineer, ML Developer Tools - US Remote",
+   "shortcode": "F000000005",
+   "telecommuting": true,
+   "url": "https://apply.workable.com/j/F000000005",
+   "country": "United States",
+   "city": "",
+   "state": ""
+  },
+  {
+   "title": "Wild Card",
+   "shortcode": "F000000006",
+   "telecommuting": true,
+   "url": "https://apply.workable.com/j/F000000006",
+   "country": "United States",
+   "city": "",
+   "state": ""
+  }
+ ]
+}

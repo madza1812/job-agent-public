@@ -1,0 +1,29 @@
+# Example preferred companies with fictional names. scripts/setup.ps1 copies it to
+# profile/preferred_companies.yaml (gitignored) when that file is missing.
+#
+# Preferred companies: a scoring reference, not a fetch list.
+# Scout discovers jobs through job alert emails. Every job's company is matched
+# against this list (name + aliases, ignoring case, punctuation and Inc/LLC/Corp),
+# and the match and tier are stored on the job for scoring.
+#
+# Each entry:
+#   - name: Ramp               # canonical name
+#     aliases: [Ramp Business Corporation]   # other names the company posts under
+#     tier: strong             # dream | strong | interested
+#     why: "..."               # what draws you to them
+#     poll_feed: true          # optional: also fetch their ATS board directly
+#     ats: ashby               # required with poll_feed: greenhouse | lever | ashby
+#     slug: ramp               # required with poll_feed: the board name in the API URL
+companies:
+  - name: Acme Robotics
+    aliases: [Acme Robotics Labs]
+    tier: dream
+    why: "Ships LLM agents to warehouse operators"
+  - name: Globex
+    aliases: [Globex Corporation]
+    tier: strong
+    why: "Strong platform team, remote-friendly"
+  - name: Initech
+    aliases: []
+    tier: interested
+    why: "Same domain as my current work"

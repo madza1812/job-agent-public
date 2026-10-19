@@ -1,0 +1,62 @@
+# How much to trust the page the details lookup took a posting from (jobs.source_trust).
+# Read by agents/scout/source_trust.py. A domain matches itself and its subdomains,
+# so "greenhouse.io" also covers boards.greenhouse.io and job-boards.greenhouse.io.
+# An ats_domains entry with a path counts only for URLs under that path.
+#
+#   official   - the company's own domain, a known ATS, or a public-sector job board
+#   aggregator - anything else (job boards, reposts, LinkedIn, Indeed). The description
+#                is used for scoring only; salary and still_open are ignored, and the
+#                digest labels the link "aggregator, verify before applying".
+#   not_found  - no posting found (set by the lookup, not by this file)
+
+ats_domains:
+  - greenhouse.io
+  - lever.co
+  - ashbyhq.com
+  - myworkdayjobs.com
+  - icims.com
+  - smartrecruiters.com
+  - jobvite.com
+  - taleo.net
+  - applytojob.com   # JazzHR
+  - jazz.co          # JazzHR
+  - bamboohr.com
+  - workable.com
+  - breezy.hr
+  - recruitee.com
+  - paylocity.com
+  - oraclecloud.com/hcmUI/CandidateExperience   # Oracle Recruiting Cloud (<tenant>.fa.<region>.oraclecloud.com)
+
+public_sector_domains:
+  - governmentjobs.com
+  - calcareers.ca.gov
+  - edjoin.org
+
+# A company's own careers domains, for when they can't be told from its name
+# (the automatic check matches a domain label against the company name, so
+# jobs.supermicro.com is official for "Supermicro" without an entry here).
+#   "Sitewire by Hexacorp": [sitewire.com, hexacorp.com]
+company_domains: {}
+
+# Domains ATSs send candidate email from, for the application tracker (agents/tracker/).
+# A domain covers its subdomains, here and in the Gmail query (from:greenhouse-mail.io
+# finds no-reply@us.greenhouse-mail.io). Real candidate mail comes from subdomains such
+# as us.greenhouse-mail.io and candidates.workablemail.com. Add a domain here when a real
+# email shows a new sender.
+ats_sender_domains:
+  - greenhouse-mail.io
+  - greenhouse.io
+  - lever.co          # also hire.lever.co
+  - ashbyhq.com
+  - workablemail.com
+  - workable.com
+  - myworkday.com
+  - icims.com
+  - smartrecruiters.com
+
+# Never fetched by the details lookup (passed to claude as WebFetch deny rules).
+# A posting that cites one of these is an aggregator.
+blocked_fetch_domains:
+  - linkedin.com
+  - www.linkedin.com
+  - lnkd.in

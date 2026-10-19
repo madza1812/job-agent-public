@@ -1,0 +1,10 @@
+{
+ "_fixture_note": "Synthetic application email modeled on a real ATS email's layout: fictional company and role, no personal details, tracking tokens and application data removed.",
+ "id": "fixture-tracker_contoso_2",
+ "sender": "no-reply@us.greenhouse-mail.io",
+ "sender_name": "Greenhouse",
+ "subject": "Security code for your application to Contoso",
+ "date": "2026-10-17T14:41:32+00:00",
+ "html": "<!DOCTYPE html>\r\n<html>\r\n  <head>\r\n    <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\r\n    <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\r\n    <link href=\"https://fonts.googleapis.com/css2?family=x&amp;display=x\" rel=\"stylesheet\">\r\n  </head>\r\n  <body style=\"font-family:'Nunito Sans',Helvetica,Arial,sans-serif;font-size:14px;color:#15372C\">\r\n    <div id=\"main\" style=\"background:#F9FAF9;\">\r\n      <div class=\"center\" style=\"width:100%;text-align:center;\">\r\n        <img alt=\"Greenhouse Recruiting\" style=\"padding:40px;width:auto;max-width:50%;\" src=\"cid:0000000000aa_0000000000b@example.mail\" />\r\n      </div>\r\n      <div id=\"content\" style=\"background:#fff;margin:0 48px;padding:40px;overflow-x:scroll\">\r\n        <p>\r\n  Copy and paste this code into the security code field on your application:\r\n</p>\r\n<h1>XXXXXXXX</h1>\r\n<p>\r\n  After you enter the code, resubmit your application.\r\n</p>\r\n\r\n      </div>\r\n      <div id=\"footer\" class=\"center\" style=\"width:100%;text-align:center;color:#9D9D9D;\">\r\n        <div class=\"p-40\" style=\"padding:40px;\">\r\n          <p>\r\n            © 2026 Greenhouse\r\n          </p>\r\n          <address style=\"font-style:normal;\">\r\n            18 West 18th Street, 11th Floor, New York, NY 10011, USA\r\n          </address>\r\n        </div>\r\n      </div>\r\n    </div>\r\n  </body>\r\n</html>\r\n",
+ "text": ""
+}

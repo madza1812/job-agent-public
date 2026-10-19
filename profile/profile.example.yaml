@@ -1,0 +1,147 @@
+# Example profile with fictional data. scripts/setup.ps1 copies it to profile/profile.yaml
+# (gitignored) when that file is missing; edit the copy, never this file.
+identity:
+  name: Alex Rivera
+  current_title: Backend Engineer
+  years_experience: 6
+  summary: >-
+    Backend engineer with 6 years building data-heavy web services in Python and
+    Go, now moving into applied AI: retrieval pipelines, LLM evaluation and
+    agent tooling for internal teams.
+  education:
+    - B.S., Computer Science, Example State University, 2019
+skills:
+  core:
+    - Python
+    - Go
+    - PostgreSQL
+    - REST and gRPC APIs
+    - Docker
+    - AWS (ECS, Lambda, S3)
+    - LLM application development
+  familiar:
+    - TypeScript
+    - React
+    - Kubernetes
+    - Terraform
+    - Vector databases
+  learning:             # open to any tech; these match target roles
+    - Model fine-tuning
+experience:
+  - company: Northwind Logistics
+    title: Backend Engineer
+    years: "2021 - Present"
+    highlights:
+      - Built the shipment-tracking API serving 40 partner integrations
+      - Added an LLM triage assistant for support tickets, cutting first-response time by half
+  - company: Contoso Health
+    title: Software Engineer
+    years: "2019 - 2021"
+    highlights:
+      - Maintained the claims-processing pipeline in Python and PostgreSQL
+targets:
+  roles:
+    - Applied AI Engineer
+    - Backend Engineer
+    - Software Engineer (AI/ML)
+  seniority:
+    - mid
+    - senior
+  industries_like:      # open to any industry; these get a domain-fit boost
+    - Developer tools
+    - Logistics
+    - Healthcare technology
+  industries_avoid: []
+  company_size:
+    - startup
+    - mid
+    - enterprise
+hard_filters:
+  locations:
+    - Portland
+    - Seattle
+    - Remote-US
+  # A posting matches a location if its text contains any alias, as a whole word.
+  # An alias can name another key here.
+  # Short all-caps aliases (PDX, SEA) are matched case-sensitively.
+  # Remote-US is handled by remote_ok, not by aliases.
+  location_aliases:
+    Portland: [Portland, PDX, Beaverton, Hillsboro, Lake Oswego, Vancouver WA]
+    Seattle: [Seattle, SEA, Bellevue, Redmond, Kirkland]
+  remote_ok: true
+  min_salary: 120000
+  exclude_title_words:
+    - principal
+    - director
+    - head
+    - vp
+    - manager   # also catches Mgr
+    - intern
+    - junior    # also catches Jr and Jnr
+  # A title must contain at least one of these (case-insensitive, whole word; multi-word
+  # terms also match hyphenated). An empty list turns the filter off.
+  require_title_words:
+    - engineer
+    - developer
+    - software
+    - backend
+    - back-end
+    - python
+    - golang
+    - ai
+    - ml
+    - machine learning
+    - llm
+  exclude_companies: []
+  # Postings older than this are filtered at fetch and closed by the daily run. Dates come
+  # from the posting or ATS, else an alert's age badge, else the alert email's date.
+  max_posting_age_days: 10
+  # The limit instead for an official posting confirmed open (pass 2 doesn't doubt it),
+  # and for one at a company in preferred_companies.yaml.
+  max_official_open_age_days: 30
+  max_official_open_age_days_preferred: 45
+  needs_sponsorship: false
+scoring_weights:
+  skills_match: 30
+  seniority_fit: 20
+  role_interest: 15
+  employer_quality: 10
+  company_pref: 10
+  location: 10
+  compensation: 5
+# Location score (0-100) for a job whose location matches hard_filters.locations.
+# A place is a flat score, or scores by office days per week; pass 2 reads office days
+# from the posting, and until then (pass 1, or the posting doesn't say) it's "unknown".
+# A job matching several places, e.g. "Seattle or Remote", gets the best score.
+commute:
+  remote: 100
+  places:
+    Portland: 100   # lives here: any office schedule is fine
+    Seattle:
+      1-2: 75
+      3: 50
+      4-5: 20
+      unknown: 55
+# Shortlisting (after pass 2) picks the top 3 jobs not yet applied whose final score is at
+# least this. Fewer than 3 is fine.
+shortlist_min_score: 60
+# The daily run closes a shortlisted or researched job with no action from you (no rating,
+# hold, skip or apply) this many days after it was shortlisted. Held jobs are never closed.
+waiting_expiry_days: 10
+feedback:
+  liked_examples: []
+  disliked_examples: []
+
+# Used by tools/sanitize_email.py when saving real alert emails as test fixtures.
+# identity.name and the Gmail address are replaced automatically; list anything
+# else personal that appears in alert emails (literal text -> placeholder).
+sanitize:
+  replace:
+    "Hi Alex,": "Hi Test,"
+    "alex-rivera-0000": "test-user"
+    "Portland, OR 97200": "Springfield, OR 00000"
+
+# The Publisher (LinkedIn drafts) refuses any draft containing these: private names from
+# your work that must never appear in a post (customers, suppliers, internal systems).
+publisher:
+  blocked_terms: [Northwind Fleet Portal, ShipTrack Internal, Acme Freight]
